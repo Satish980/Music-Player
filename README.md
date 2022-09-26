@@ -134,4 +134,3 @@ Here we are going to focus on 2. Creating a Topical Branch:
 8. You have successfully created a pull request. Now wait for mentor approval. Once approved, you can merge the pull request.
 
 #
-# Music-Player
